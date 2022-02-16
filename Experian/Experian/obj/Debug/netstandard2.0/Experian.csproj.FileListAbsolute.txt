@@ -1,0 +1,13 @@
+C:\Users\muham\source\repos\Experian\Experian\bin\Debug\netstandard2.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\muham\source\repos\Experian\Experian\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+C:\Users\muham\source\repos\Experian\Experian\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+C:\Users\muham\source\repos\Experian\Experian\bin\Debug\netstandard2.0\nunit.engine.dll
+C:\Users\muham\source\repos\Experian\Experian\bin\Debug\netstandard2.0\nunit.engine.api.dll
+C:\Users\muham\source\repos\Experian\Experian\bin\Debug\netstandard2.0\nunit.engine.core.dll
+C:\Users\muham\source\repos\Experian\Experian\bin\Debug\netstandard2.0\testcentric.engine.metadata.dll
+C:\Users\muham\source\repos\Experian\Experian\obj\Debug\netstandard2.0\Experian.csprojAssemblyReference.cache
+C:\Users\muham\source\repos\Experian\Experian\obj\Debug\netstandard2.0\Experian.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\Experian\Experian\obj\Debug\netstandard2.0\Experian.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\Experian\Experian\obj\Debug\netstandard2.0\Experian.AssemblyInfo.cs
+C:\Users\muham\source\repos\Experian\Experian\obj\Debug\netstandard2.0\Experian.dll
+C:\Users\muham\source\repos\Experian\Experian\obj\Debug\netstandard2.0\Experian.pdb
